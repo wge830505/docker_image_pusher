@@ -1,1 +1,5 @@
-whyour/qinglong
+gngpp/xunlei
+johngong/baidunetdisk:lates
+xiaoyaliu/alist:latest
+alpine:3.18.2
+xhofe/alist:latest
