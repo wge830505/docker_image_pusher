@@ -1,1 +1,1 @@
-xiaoyaliu/alist:lates
+xiaoyaliu/alist:latest
