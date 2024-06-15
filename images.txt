@@ -1,2 +1,2 @@
-gngpp/xunlei
+gngpp/xunlei:lates
 johngong/baidunetdisk:lates
