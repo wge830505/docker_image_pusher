@@ -1,1 +1,1 @@
-docker.io/redis:6.2-alpine
+immich-app/immich-server
