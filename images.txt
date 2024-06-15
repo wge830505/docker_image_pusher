@@ -1,1 +1,1 @@
-johngong/baidunetdisk:latest
+gngpp/xunlei:latest
