@@ -1,1 +1,1 @@
-johngong/baidunetdisk:lates
+xhofe/alist:latest
