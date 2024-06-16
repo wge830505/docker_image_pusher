@@ -1,1 +1,1 @@
-gngpp/xunlei:latest
+portainer/portainer-ce:latest
