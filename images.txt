@@ -1,2 +1,1 @@
-xiaoyaliu/alist:latest   
---platform=xiaoyaliu/alist:latest     
+--platform=xiaoyaliu xiaoyaliu/alist:latest     
