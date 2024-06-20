@@ -1,1 +1,1 @@
-xhofe/alist
+jlesage/nginx-proxy-manager:latest
