@@ -1,1 +1,1 @@
-redis:latest
+ghcr.io/imagegenius/immich:latest
