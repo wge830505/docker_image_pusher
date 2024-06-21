@@ -1,1 +1,1 @@
-tensorchord/pgvecto-rs:pg14-v0.2.0
+redis:latest
