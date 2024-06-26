@@ -1,1 +1,1 @@
-tensorchord/pgvecto-rs:latest
+--platform=arm  pgvecto-rs:pg14-v0.2.1
