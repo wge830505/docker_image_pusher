@@ -1,1 +1,2 @@
---platform=arm64   ghcr.io/imagegenius/immich:latest
+--platform=arm64   whyour/qinglong
+--platform=arm64   cnk3x/xunlei
