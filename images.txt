@@ -1,1 +1,1 @@
---platform=arm64   emuqi/baidunetdisk-arm64-vnc
+--platform=arm64/xiaoyaliu   xiaoyaliu/alist
