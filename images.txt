@@ -1,1 +1,1 @@
---platform=arm64   tensorchord/pgvecto-rs:pg14-v0.2.1
+--platform=arm64   redis:latest
