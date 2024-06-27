@@ -1,1 +1,1 @@
---platform=arm64   redis:latest
+--platform=arm64   ghcr.io/imagegenius/immich:latest
