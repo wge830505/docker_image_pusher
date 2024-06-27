@@ -1,2 +1,1 @@
---platform=arm64   whyour/qinglong
---platform=arm64   cnk3x/xunlei
+--platform=arm64   emuqi/baidunetdisk-arm64-vnc
