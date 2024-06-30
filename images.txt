@@ -1,2 +1,2 @@
---platform=arm64   immich-machine-learning:latest
---platform=arm64   immich-server:latest
+--platform=arm64   ghcr.nju.edu.cn/immich-app/immich-machine-learning:latest
+--platform=arm64   ghcr.nju.edu.cn/immich-app/immich-server:latest
