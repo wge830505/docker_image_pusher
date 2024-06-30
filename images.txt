@@ -1,2 +1,2 @@
---platform=arm64   immich-app/immich-machine-learning
---platform=arm64   immich-app/immich-server
+--platform=arm64   immich-machine-learning:latest
+--platform=arm64   immich-server:latest
