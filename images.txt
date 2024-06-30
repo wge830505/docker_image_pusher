@@ -1,2 +1,1 @@
---platform=arm64   tensorchord/pgvecto-rs:pg14-v0.1.11
---platform=arm64   tensorchord/pgvecto-rs:pg14-v0.2.0
+--platform=arm64   ghcr.io/imagegenius/immich:v1.92.0
