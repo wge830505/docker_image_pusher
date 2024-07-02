@@ -1,1 +1,2 @@
---platform=arm64   dezhao/immich_cn:1.93.3
+--platform=arm64   ghcr.io/immich-app/immich-server:latest
+--platform=arm64   ghcr.io/immich-app/immich-machine-learning:latest
