@@ -1,2 +1,1 @@
---platform=arm64  togettoyou/ghcr.io.immich-app.immich-server:latest
---platform=arm64  togettoyou/ghcr.io.immich-app.immich-machine-learning:latest
+--platform=arm64  prodrigestivill/postgres-backup-local:14
