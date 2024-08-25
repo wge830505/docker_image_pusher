@@ -1,1 +1,2 @@
 --platform=arm64  prodrigestivill/postgres-backup-local:14
+immich:latest
