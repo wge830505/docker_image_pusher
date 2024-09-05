@@ -1,1 +1,1 @@
-ghcr.io/imagegenius/immich:latest
+fooololo/aipan-netdisk-search:latest
