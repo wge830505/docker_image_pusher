@@ -1,1 +1,1 @@
-shenxianmq/auto_symlink:latest
+dzhuang/tinymediamanager
