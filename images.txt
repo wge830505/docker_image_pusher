@@ -1,1 +1,1 @@
-fooololo/aipan-netdisk-search:latest
+shenxianmq/auto_symlink:latest
