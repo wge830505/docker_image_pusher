@@ -1,2 +1,1 @@
-dzhuang/tinymediamanager
-amilys/embyserver
+lovechen/embyserver
