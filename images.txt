@@ -1,1 +1,1 @@
-lovechen/embyserver
+jellyfin/jellyfin
