@@ -1,1 +1,1 @@
-AlistGo/alist
+alist:latest
