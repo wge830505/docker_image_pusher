@@ -1,1 +1,1 @@
-p3terx/ariang:latest
+--platform=arm64   xhofe/alist:v3.40.0
