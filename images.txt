@@ -1,1 +1,1 @@
-ionewu/owjdxb:latest
+p3terx/aria2-pro:latest
