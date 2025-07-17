@@ -1,1 +1,1 @@
---platform=arm64   xhofe/alist:v3.28.0
+--platform=arm64   cp0204/quark-auto-save:latest
