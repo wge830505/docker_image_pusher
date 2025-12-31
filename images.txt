@@ -1,1 +1,1 @@
-bestzwei/libretv:latest
+lampon/omnibox:latest
