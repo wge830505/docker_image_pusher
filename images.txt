@@ -1,1 +1,2 @@
-lampon/omnibox:latest
+ghcr.io/moontechlab/lunatv:latest
+apache/kvrocks
