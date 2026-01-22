@@ -1,2 +1,1 @@
-ghcr.io/moontechlab/lunatv:latest
-apache/kvrocks
+guovern/iptv-api:latest
