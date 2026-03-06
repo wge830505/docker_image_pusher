@@ -1,1 +1,1 @@
- --platform=arm64  linuxserver/emby:latest
+ --platform=arm64  emby/embyserver_arm64v8:latest
