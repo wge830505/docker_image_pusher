@@ -1,1 +1,1 @@
- --platform=arm64  lampon/omnibox:latest
+ --platform=arm64  linuxserver/emby:latest
