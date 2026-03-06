@@ -1,1 +1,1 @@
- --platform=arm64  openlistteam/openlist:latest
+ --platform=arm64  emby/embyserver:latest
