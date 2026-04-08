@@ -1,2 +1,2 @@
-whyour/qinglong
+whyour/qinglong:latest
  
