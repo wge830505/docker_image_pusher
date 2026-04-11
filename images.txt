@@ -1,1 +1,2 @@
-slcnx/fastgithub:latest
+slcnx/ubuntu:18.04
+nginx:latest
